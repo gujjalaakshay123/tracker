@@ -1,0 +1,33 @@
+# OAuth credentials — never commit these
+credentials.json
+token.json
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Data files (keep history.csv if you want, but it's personal data)
+# history.csv
+
+# Logs (optional — you may want to commit these)
+# logs/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
