@@ -17,7 +17,7 @@ env/
 *.egg-info/
 dist/
 build/
-
+output/
 # Data files (keep history.csv if you want, but it's personal data)
 # history.csv
 
